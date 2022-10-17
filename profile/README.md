@@ -40,7 +40,7 @@ In response to the growing number of people using mobile platforms globally, Thi
 ![aws-certifications](https://github.com/Think-iT-Labs/.github/raw/main/profile/assets/aws-certifications.drawio.png)
 
 ## Our Open-Source Projects
-- [Dirhash](Think-iT-Labs/dirhash), A CLI and a Terraform Provider to compute the SHA256 checksums of directories to detect changes within them
-- [EC2-Minikube](Think-iT-Labs/ec2-minikube), a tool built using Terraform to create an Amazon EC2 instance and bootstrap a Kubernetes cluster in a couple of minutes using Minikube for non-production use
-- [CodeCommit-SlackBot](Think-iT-Labs/CodeCommit-Slackbot) enables developers to receive Slack messages on CodeCommit events. Easy to set-up using AWS CDK
-- [NotifyMe](Think-iT-Labs/notifyme) helps you get notified on Slack when your long running command has finished.
+- [Dirhash](https://github.com/Think-iT-Labs/dirhash), A CLI and a Terraform Provider to compute the SHA256 checksums of directories to detect changes within them
+- [EC2-Minikube](https://github.com/Think-iT-Labs/ec2-minikube), a tool built using Terraform to create an Amazon EC2 instance and bootstrap a Kubernetes cluster in a couple of minutes using Minikube for non-production use
+- [CodeCommit-SlackBot](https://github.com/Think-iT-Labs/CodeCommit-Slackbot) enables developers to receive Slack messages on CodeCommit events. Easy to set-up using AWS CDK
+- [NotifyMe](https://github.com/Think-iT-Labs/notifyme) helps you get notified on Slack when your long running command has finished.
